@@ -1,3 +1,4 @@
+import React from 'react';
 import { ToolCard } from '../components/ToolCard';
 
 export default function Home() {
